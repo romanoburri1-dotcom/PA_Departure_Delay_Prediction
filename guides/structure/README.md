@@ -8,6 +8,10 @@ Aktuell gültige Ordnerstruktur: V1.0 -> Struktur gemäss Screenshot "Ordnerstru
 
 Info: Ordner "old_or_unused_datasets" ist optional/nicht notwendig
 
+Wichtig: Rohdaten MÜSSEN genau folgende Namen haben, damit die Notebooks funktionieren ohne Anpassungen vornehmen zu müssen:
 
+FZAG_DATA_arrivals.csv
 
+FZAG_DATA_departures.csv
 
+metar_lszh_2023-2025.csv

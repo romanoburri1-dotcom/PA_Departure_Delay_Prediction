@@ -1,3 +1,3 @@
 Hier ist jeweils das aktuellste Skript für das Modell zu finden.
 
-Aktuelle Version: V1.5
+Aktuelle Version: V1.7

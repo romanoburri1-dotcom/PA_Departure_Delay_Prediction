@@ -1,5 +1,5 @@
 Das hier hinterlegte Notebook dient zur Erstellung der Features.
 
-Aktuellste Version: V1.4 (5.11.25)
+Aktuellste Version: V1.6
 
 Voraussetzung: Cleane Datasets wurden bereits erstellt und sind in der korrekten Ordnerstruktur hinterlegt
